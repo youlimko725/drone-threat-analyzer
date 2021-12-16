@@ -61,18 +61,18 @@ incldue images &
 
 ### Project Images
 * Doppler Radar Sensor Modified from Off-the-shelf Radar Gun
-<img src="img/prototype_sensor.jpeg" width="400" height="790">
+<img src="img/prototype_sensor.jpeg" width="450" height="400">
 
 * Defined Sectors and Algorithm
-<img src="img/defined_sectors.jpeg" width="400" height="790">
-<img src="img/algorithm.jpeg" width="400" height="790">
-<img src="img/algorithm_rule_1.jpeg" width="400" height="790">
-<img src="img/algorithm_rule_2.jpeg" width="400" height="790">
-<img src="img/algorithm_rule_3.jpeg" width="400" height="790">
-<img src="img/algorithm_rule_4.jpeg" width="400" height="790">
+<img src="img/defined_sectors.jpeg" width="450" height="400">
+<img src="img/algorithm.jpeg" width="400" height="750">
+<img src="img/algorithm_rule_1.jpeg" width="400" height="300">
+<img src="img/algorithm_rule_2.jpeg" width="400" height="300">
+<img src="img/algorithm_rule_3.jpeg" width="400" height="300">
+<img src="img/algorithm_rule_4.jpeg" width="400" height="300">
 
 * Threat Level Assessment
-<img src="img/new_algorithm_graph.jpeg" width="400" height="790">
+<img src="img/new_algorithm_graph.jpeg" width="450" height="550">
 
 
 
