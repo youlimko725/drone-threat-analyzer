@@ -2,11 +2,9 @@
 
 # dependencies
 /node_modules
-node_modules
 /.pnp
 .pnp.js
 /package-lock.json
-package-lock.json
 /package.json
 
 # testing
@@ -27,4 +25,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-backend/.env
+# environment variable
+/backend/.env
